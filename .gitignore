@@ -1,0 +1,14 @@
+# System files
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Astro
+dist/
+.astro/
+
+# Environment variables
+.env
+.env.production
